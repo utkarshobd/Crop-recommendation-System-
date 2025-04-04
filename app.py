@@ -56,7 +56,7 @@ st.markdown("""
     <style>
     /* Change the color of input field labels */
     div[data-testid="stNumberInput"] label {
-        color: brown !important;
+        color: yellow !important;
         font-weight: bold;
     }
     </style>
